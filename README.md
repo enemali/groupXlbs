@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1CMr4IYaeZGi9RsT7QBglHyMsWfQSDIS4/view?usp=shari
 # link to the Unity project
 
 https://drive.google.com/file/d/1uNwAOfk8CxIQjqVRpEdZxVAFNXOZKNCX/view?usp=sharing
+
+#  Project documentation 
+The project is well documented in the pdf found in this repo.
